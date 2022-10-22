@@ -34703,7 +34703,7 @@ case 2:return A.a3(o,r)}})
 return A.a5($async$jv,r)}}
 A.TK.prototype={}
 A.mW.prototype={
-giL(){return"assets/images/gta5-map.png"},
+giL(){return"assets/images/gta5-map-v1.png"},
 Od(a){var s,r={},q=a.a
 if(q==null)q=$.FA()
 r.a=r.b=null
@@ -34729,7 +34729,7 @@ if(q==null)return a.i(0,r)
 if(b<2||b>(r+q)/2)return a.i(0,q)
 else return a.i(0,r)},
 w3(a){var s,r,q,p
-if(a==="assets/images/gta5-map.png")return 1
+if(a==="assets/images/gta5-map-v1.png")return 1
 s=A.Zf(a)
 r=s.giQ().length>1?s.giQ()[s.giQ().length-2]:""
 q=$.a3K().ml(r)
